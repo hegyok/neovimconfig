@@ -14,5 +14,9 @@ return require('packer').startup(function(use)
   use('mbbill/undotree')
 	
   use("neoclide/coc.nvim", {branch ='release'})
+
+  use('nvim-lua/plenary.nvim')
+
+  use('crispgm/nvim-go')
 end)
 
