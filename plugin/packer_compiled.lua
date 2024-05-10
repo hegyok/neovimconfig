@@ -79,21 +79,6 @@ _G.packer_plugins = {
     path = "C:\\Users\\chlib\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\coc.nvim",
     url = "https://github.com/neoclide/coc.nvim"
   },
-  ["go.nvim"] = {
-    loaded = true,
-    path = "C:\\Users\\chlib\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\go.nvim",
-    url = "https://github.com/ray-x/go.nvim"
-  },
-  ["guihua.lua"] = {
-    loaded = true,
-    path = "C:\\Users\\chlib\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\guihua.lua",
-    url = "https://github.com/ray-x/guihua.lua"
-  },
-  ["nvim-lspconfig"] = {
-    loaded = true,
-    path = "C:\\Users\\chlib\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\nvim-lspconfig",
-    url = "https://github.com/neovim/nvim-lspconfig"
-  },
   ["nvim-treesitter"] = {
     loaded = true,
     path = "C:\\Users\\chlib\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\nvim-treesitter",
